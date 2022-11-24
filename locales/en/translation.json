@@ -1,0 +1,22 @@
+{
+  "Hello": "Hello",
+  "I am": "LeoFom",
+  "Greeting": "Greeting",
+  "reactTitle": "Best sneaker store",
+  "cartTitle": "Cart",
+  "cartTotal": "Total:",
+  "cartButton": "Place an Order",
+  "infoButton": "Go back",
+  "order": "Order",
+  "orderSend": "Order completed",
+  "orderEmpty": "Cart is empty",
+  "orderComplete_1": "Your order #",
+  "orderComplete_2": " will soon be handed over to courier delivery",
+  "orderNone": "Please add at least one item",
+  "$": "$",
+  "price": "Price:",
+  "orederTitle": "My orders",
+  "favorites" : "Favorites",
+  "search": "Search",
+  "homeTitle": "Sneaker" 
+  }
